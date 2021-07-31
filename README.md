@@ -6,6 +6,7 @@ Source: https://ar-js-org.github.io/AR.js-Docs
 The purpose of this demo is to provide a quick example for the newcomers in the WebAR world.
 
 You can build a quick prototype by copying the HTML file in your web server.
+
 Open the link (index.html) in your mobile or desktop browser and focus on the Hiro marker (download from the repo) to see the 3D AR experience coming live.
 
 Few points to remember:
